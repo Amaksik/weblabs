@@ -1,0 +1,49 @@
+Y:\stuff\KPI\ВЕБОП\PR3A\AccordionSaver\AccordionSaver\bin\Debug\net6.0\AccordionSaver.exe
+Y:\stuff\KPI\ВЕБОП\PR3A\AccordionSaver\AccordionSaver\bin\Debug\net6.0\AccordionSaver.deps.json
+Y:\stuff\KPI\ВЕБОП\PR3A\AccordionSaver\AccordionSaver\bin\Debug\net6.0\AccordionSaver.runtimeconfig.json
+Y:\stuff\KPI\ВЕБОП\PR3A\AccordionSaver\AccordionSaver\bin\Debug\net6.0\AccordionSaver.dll
+Y:\stuff\KPI\ВЕБОП\PR3A\AccordionSaver\AccordionSaver\bin\Debug\net6.0\ref\AccordionSaver.dll
+Y:\stuff\KPI\ВЕБОП\PR3A\AccordionSaver\AccordionSaver\bin\Debug\net6.0\AccordionSaver.pdb
+Y:\stuff\KPI\ВЕБОП\PR3A\AccordionSaver\AccordionSaver\obj\Debug\net6.0\AccordionSaver.csproj.AssemblyReference.cache
+Y:\stuff\KPI\ВЕБОП\PR3A\AccordionSaver\AccordionSaver\obj\Debug\net6.0\AccordionSaver.GeneratedMSBuildEditorConfig.editorconfig
+Y:\stuff\KPI\ВЕБОП\PR3A\AccordionSaver\AccordionSaver\obj\Debug\net6.0\AccordionSaver.AssemblyInfoInputs.cache
+Y:\stuff\KPI\ВЕБОП\PR3A\AccordionSaver\AccordionSaver\obj\Debug\net6.0\AccordionSaver.AssemblyInfo.cs
+Y:\stuff\KPI\ВЕБОП\PR3A\AccordionSaver\AccordionSaver\obj\Debug\net6.0\AccordionSaver.csproj.CoreCompileInputs.cache
+Y:\stuff\KPI\ВЕБОП\PR3A\AccordionSaver\AccordionSaver\obj\Debug\net6.0\AccordionSaver.dll
+Y:\stuff\KPI\ВЕБОП\PR3A\AccordionSaver\AccordionSaver\obj\Debug\net6.0\ref\AccordionSaver.dll
+Y:\stuff\KPI\ВЕБОП\PR3A\AccordionSaver\AccordionSaver\obj\Debug\net6.0\AccordionSaver.pdb
+Y:\stuff\KPI\ВЕБОП\PR3A\AccordionSaver\AccordionSaver\obj\Debug\net6.0\AccordionSaver.genruntimeconfig.cache
+Y:\stuff\KPI\ВЕБОП\PR3A\AccordionSaver\AccordionSaver\obj\Debug\net6.0\AccordionSaver.MvcApplicationPartsAssemblyInfo.cache
+Y:\stuff\KPI\ВЕБОП\PR3A\AccordionSaver\AccordionSaver\obj\Debug\net6.0\staticwebassets.build.json
+Y:\stuff\KPI\ВЕБОП\PR3A\AccordionSaver\AccordionSaver\obj\Debug\net6.0\staticwebassets.development.json
+Y:\stuff\KPI\ВЕБОП\PR3A\AccordionSaver\AccordionSaver\obj\Debug\net6.0\scopedcss\bundle\AccordionSaver.styles.css
+\\Desktop-53s0vpf\KPI\ВЕБОП\PR3A\AccordionSaver\AccordionSaver\obj\Debug\net6.0\AccordionSaver.csproj.AssemblyReference.cache
+\\Desktop-53s0vpf\KPI\ВЕБОП\PR3A\AccordionSaver\AccordionSaver\obj\Debug\net6.0\AccordionSaver.GeneratedMSBuildEditorConfig.editorconfig
+\\Desktop-53s0vpf\KPI\ВЕБОП\PR3A\AccordionSaver\AccordionSaver\obj\Debug\net6.0\AccordionSaver.AssemblyInfoInputs.cache
+\\Desktop-53s0vpf\KPI\ВЕБОП\PR3A\AccordionSaver\AccordionSaver\obj\Debug\net6.0\AccordionSaver.AssemblyInfo.cs
+\\Desktop-53s0vpf\KPI\ВЕБОП\PR3A\AccordionSaver\AccordionSaver\obj\Debug\net6.0\AccordionSaver.csproj.CoreCompileInputs.cache
+\\Desktop-53s0vpf\KPI\ВЕБОП\PR3A\AccordionSaver\AccordionSaver\obj\Debug\net6.0\AccordionSaver.MvcApplicationPartsAssemblyInfo.cache
+\\Desktop-53s0vpf\KPI\ВЕБОП\PR3A\AccordionSaver\AccordionSaver\obj\Debug\net6.0\AccordionSaver.dll
+\\Desktop-53s0vpf\KPI\ВЕБОП\PR3A\AccordionSaver\AccordionSaver\obj\Debug\net6.0\ref\AccordionSaver.dll
+\\Desktop-53s0vpf\KPI\ВЕБОП\PR3A\AccordionSaver\AccordionSaver\obj\Debug\net6.0\AccordionSaver.pdb
+Y:\stuff\KPI\ВЕБОП\PR3A\AccordionSaver\AccordionSaver\bin\Debug\net6.0\File.json
+C:\Users\Anton Maksymenko\Desktop\lab3\AccordionSaver\AccordionSaver\bin\Debug\net6.0\File.json
+C:\Users\Anton Maksymenko\Desktop\lab3\AccordionSaver\AccordionSaver\bin\Debug\net6.0\AccordionSaver.exe
+C:\Users\Anton Maksymenko\Desktop\lab3\AccordionSaver\AccordionSaver\bin\Debug\net6.0\AccordionSaver.deps.json
+C:\Users\Anton Maksymenko\Desktop\lab3\AccordionSaver\AccordionSaver\bin\Debug\net6.0\AccordionSaver.runtimeconfig.json
+C:\Users\Anton Maksymenko\Desktop\lab3\AccordionSaver\AccordionSaver\bin\Debug\net6.0\AccordionSaver.dll
+C:\Users\Anton Maksymenko\Desktop\lab3\AccordionSaver\AccordionSaver\bin\Debug\net6.0\ref\AccordionSaver.dll
+C:\Users\Anton Maksymenko\Desktop\lab3\AccordionSaver\AccordionSaver\bin\Debug\net6.0\AccordionSaver.pdb
+C:\Users\Anton Maksymenko\Desktop\lab3\AccordionSaver\AccordionSaver\obj\Debug\net6.0\AccordionSaver.csproj.AssemblyReference.cache
+C:\Users\Anton Maksymenko\Desktop\lab3\AccordionSaver\AccordionSaver\obj\Debug\net6.0\AccordionSaver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anton Maksymenko\Desktop\lab3\AccordionSaver\AccordionSaver\obj\Debug\net6.0\AccordionSaver.AssemblyInfoInputs.cache
+C:\Users\Anton Maksymenko\Desktop\lab3\AccordionSaver\AccordionSaver\obj\Debug\net6.0\AccordionSaver.AssemblyInfo.cs
+C:\Users\Anton Maksymenko\Desktop\lab3\AccordionSaver\AccordionSaver\obj\Debug\net6.0\AccordionSaver.csproj.CoreCompileInputs.cache
+C:\Users\Anton Maksymenko\Desktop\lab3\AccordionSaver\AccordionSaver\obj\Debug\net6.0\AccordionSaver.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anton Maksymenko\Desktop\lab3\AccordionSaver\AccordionSaver\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Anton Maksymenko\Desktop\lab3\AccordionSaver\AccordionSaver\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Anton Maksymenko\Desktop\lab3\AccordionSaver\AccordionSaver\obj\Debug\net6.0\scopedcss\bundle\AccordionSaver.styles.css
+C:\Users\Anton Maksymenko\Desktop\lab3\AccordionSaver\AccordionSaver\obj\Debug\net6.0\AccordionSaver.dll
+C:\Users\Anton Maksymenko\Desktop\lab3\AccordionSaver\AccordionSaver\obj\Debug\net6.0\ref\AccordionSaver.dll
+C:\Users\Anton Maksymenko\Desktop\lab3\AccordionSaver\AccordionSaver\obj\Debug\net6.0\AccordionSaver.pdb
+C:\Users\Anton Maksymenko\Desktop\lab3\AccordionSaver\AccordionSaver\obj\Debug\net6.0\AccordionSaver.genruntimeconfig.cache

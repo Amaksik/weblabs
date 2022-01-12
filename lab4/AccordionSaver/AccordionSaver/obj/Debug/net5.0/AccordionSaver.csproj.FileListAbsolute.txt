@@ -1,0 +1,12 @@
+\\Desktop-53s0vpf\KPI\ВЕБОП\PR3A\AccordionSaver\AccordionSaver\obj\Debug\net5.0\AccordionSaver.csproj.AssemblyReference.cache
+\\Desktop-53s0vpf\KPI\ВЕБОП\PR3A\AccordionSaver\AccordionSaver\obj\Debug\net5.0\AccordionSaver.GeneratedMSBuildEditorConfig.editorconfig
+\\Desktop-53s0vpf\KPI\ВЕБОП\PR3A\AccordionSaver\AccordionSaver\obj\Debug\net5.0\AccordionSaver.AssemblyInfoInputs.cache
+\\Desktop-53s0vpf\KPI\ВЕБОП\PR3A\AccordionSaver\AccordionSaver\obj\Debug\net5.0\AccordionSaver.AssemblyInfo.cs
+\\Desktop-53s0vpf\KPI\ВЕБОП\PR3A\AccordionSaver\AccordionSaver\obj\Debug\net5.0\AccordionSaver.csproj.CoreCompileInputs.cache
+\\Desktop-53s0vpf\KPI\ВЕБОП\PR3A\AccordionSaver\AccordionSaver\obj\Debug\net5.0\AccordionSaver.MvcApplicationPartsAssemblyInfo.cache
+Y:\stuff\KPI\ВЕБОП\PR3A\AccordionSaver\AccordionSaver\obj\Debug\net5.0\AccordionSaver.csproj.AssemblyReference.cache
+Y:\stuff\KPI\ВЕБОП\PR3A\AccordionSaver\AccordionSaver\obj\Debug\net5.0\AccordionSaver.GeneratedMSBuildEditorConfig.editorconfig
+Y:\stuff\KPI\ВЕБОП\PR3A\AccordionSaver\AccordionSaver\obj\Debug\net5.0\AccordionSaver.AssemblyInfoInputs.cache
+Y:\stuff\KPI\ВЕБОП\PR3A\AccordionSaver\AccordionSaver\obj\Debug\net5.0\AccordionSaver.AssemblyInfo.cs
+Y:\stuff\KPI\ВЕБОП\PR3A\AccordionSaver\AccordionSaver\obj\Debug\net5.0\AccordionSaver.csproj.CoreCompileInputs.cache
+Y:\stuff\KPI\ВЕБОП\PR3A\AccordionSaver\AccordionSaver\obj\Debug\net5.0\AccordionSaver.MvcApplicationPartsAssemblyInfo.cache
